@@ -1,10 +1,13 @@
+"
+I'm representig a book.
+"
 Class {
 	#name : #MBSBook,
 	#superclass : #MBSPrintedMaterial,
 	#instVars : [
 		'edition'
 	],
-	#category : #mnqprBookshelf
+	#category : #MnqprBookshelf
 }
 
 { #category : #accessing }

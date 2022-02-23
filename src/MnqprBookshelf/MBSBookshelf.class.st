@@ -8,5 +8,5 @@ Class {
 		'name',
 		'printedMaterials'
 	],
-	#category : #mnqprBookshelf
+	#category : #MnqprBookshelf
 }

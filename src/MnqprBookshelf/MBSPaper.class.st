@@ -1,3 +1,6 @@
+"
+I'm representing a scientific paper.
+"
 Class {
 	#name : #MBSPaper,
 	#superclass : #MBSPrintedMaterial,
@@ -5,7 +8,7 @@ Class {
 		'journal',
 		'issue'
 	],
-	#category : #mnqprBookshelf
+	#category : #MnqprBookshelf
 }
 
 { #category : #accessing }

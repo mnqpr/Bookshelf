@@ -1,3 +1,6 @@
+"
+I'm an abstract class representing prited documnets.
+"
 Class {
 	#name : #MBSPrintedMaterial,
 	#superclass : #Object,
@@ -10,7 +13,7 @@ Class {
 		'fileLocation',
 		'url'
 	],
-	#category : #mnqprBookshelf
+	#category : #MnqprBookshelf
 }
 
 { #category : #accessing }
