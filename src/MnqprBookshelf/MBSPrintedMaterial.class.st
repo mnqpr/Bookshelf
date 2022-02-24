@@ -13,7 +13,7 @@ Class {
 		'fileLocation',
 		'url'
 	],
-	#category : #MnqprBookshelf
+	#category : #'MnqprBookshelf-Core'
 }
 
 { #category : #accessing }

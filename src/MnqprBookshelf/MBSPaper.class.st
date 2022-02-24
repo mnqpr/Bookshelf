@@ -8,7 +8,7 @@ Class {
 		'journal',
 		'issue'
 	],
-	#category : #MnqprBookshelf
+	#category : #'MnqprBookshelf-Core'
 }
 
 { #category : #accessing }

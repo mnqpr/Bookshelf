@@ -7,7 +7,7 @@ Class {
 	#instVars : [
 		'edition'
 	],
-	#category : #MnqprBookshelf
+	#category : #'MnqprBookshelf-Core'
 }
 
 { #category : #accessing }
